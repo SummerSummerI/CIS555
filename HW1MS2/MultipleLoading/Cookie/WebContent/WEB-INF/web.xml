@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE web-app 
+    PUBLIC "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN" 
+    "http://java.sun.com/dtd/web-app_2_3.dtd">
+
+<web-app>
+
+
+    <!-- General description of your web application -->
+
+    <display-name>Test servlets</display-name>
+    <description>
+    Some servlets you can use to test your application server
+    </description>
+
+    <context-param>
+      <param-name>webmaster</param-name>
+      <param-value>yourname@seas.upenn.edu</param-value>
+      <description>
+        The EMAIL address of the administrator to whom questions
+        and comments about this application should be addressed.
+      </description>
+    </context-param>
+
+    <servlet>
+      <servlet-name>cookie1</servlet-name>
+      <servlet-class>edu.upenn.cis455.Cookies.CookieServlet1</servlet-class>
+      <load-on-startup/>
+    </servlet>
+
+    <servlet>
+      <servlet-name>cookie2</servlet-name>
+      <servlet-class>edu.upenn.cis455.Cookies.CookieServlet2</servlet-class>  
+      <load-on-startup/>
+    </servlet>
+
+    <servlet>
+      <servlet-name>cookie3</servlet-name>
+      <servlet-class>edu.upenn.cis455.Cookies.CookieServlet3</servlet-class>
+      <load-on-startup/>
+    </servlet>
+
+ 
+
+    <servlet-mapping>
+      <servlet-name>cookie1</servlet-name>
+      <url-pattern>/cookie1</url-pattern>
+    </servlet-mapping>
+
+    <servlet-mapping>
+      <servlet-name>cookie2</servlet-name>
+      <url-pattern>/cookie2</url-pattern>
+    </servlet-mapping>
+
+    <servlet-mapping>
+      <servlet-name>cookie3</servlet-name>
+      <url-pattern>/cookie3</url-pattern>
+    </servlet-mapping>
+
+  
+    <session-config>
+      <session-timeout>30</session-timeout>    <!-- 30 minutes -->
+    </session-config>
+
+</web-app>

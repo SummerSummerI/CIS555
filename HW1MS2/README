@@ -1,0 +1,29 @@
+Full name:  ____Hangfei Lin__________
+SEAS login: ____hangfei__________
+
+Which features did you implement? 
+  (list features, or write 'Entire assignment')
+  Entire.
+
+Did you complete any extra-credit tasks? If so, which ones?
+  (list extra-credit tasks)
+  Chunked Encoding.
+  Performance Testing.
+
+Any special instructions for building and running your solution?
+  (include detailed instructions, or write 'None')
+  My server runs normally for servlets and static page with Eclipse. 
+  But my server doesn't run with command line for servlets, it works for static html pages.
+
+Did you personally write _all_ the code you are submitting
+(other than code from the course web page)?
+  [X] Yes
+  [ ] No
+
+Did you copy any code from the Internet, or from classmates?
+  [ ] Yes
+  [X] No
+
+Did you collaborate with anyone on this assignment?
+  [ ] Yes
+  [X] No
