@@ -1,11 +1,11 @@
 HW2MS1
 ======
 
-_Steps:  
+_Steps:_  
 - Validation Check  
 - XPath Match  
 - Client  
-- 
+- Other
 
 * Validation Check  
  * Nested bullet
