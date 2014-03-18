@@ -1,7 +1,7 @@
 HW2MS1
 ======
 
-Steps:
+Steps:  
 	- Validation Check
 	- XPath Match
 	- Client
