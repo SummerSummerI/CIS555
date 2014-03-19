@@ -3,8 +3,12 @@ MapReduce
 ###Analogy###
 
 
-###MapReduce###
+##MapReduce##
+###Implementation
 ####Hadoop####
+####Pig Latin@Yahoo####
+####MapReduce@Google####
+
 
 ###Example###
 - Distributed Grep
