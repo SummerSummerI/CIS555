@@ -5,9 +5,9 @@ MapReduce
 
 ##MapReduce##
 ###Implementation
-####Hadoop@Apache####
-####Pig Latin@Yahoo####
-####MapReduce@Google####
+- Hadoop@Apache
+- Pig Latin@Yahoo
+- MapReduce@Google
 
 
 ###Example###
