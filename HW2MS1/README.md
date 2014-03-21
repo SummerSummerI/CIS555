@@ -3,6 +3,8 @@ HW2MS1
 
 _Steps:_  
 - Tokenize/Lexing
+  - StreamTokenizer
+  - Lexing based on "step"
 - Validation Check  
 - XPath Match  
   - Recursion
@@ -12,8 +14,6 @@ _Steps:_
 - XPath Engine User Interface Servlet
   - Post Method
 - Other
-
-
 
 
 `code()`
