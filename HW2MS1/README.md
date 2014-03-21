@@ -5,9 +5,12 @@ _Steps:_
 - Tokenize/Lexing
   - StreamTokenizer
   - Lexing based on "step"
-- Validation Check  
+    - Categorize into: simple step, PredStep, MultiPred, NestedPred
+- Validation Check
+  - ?
 - XPath Match  
   - Recursion
+  - 
 - Client 
   - JTidy
   - XML fetch
