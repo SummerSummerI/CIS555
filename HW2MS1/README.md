@@ -2,17 +2,17 @@ HW2MS1
 ======
 
 _Steps:_  
+- Tokenize/Lexing
 - Validation Check  
 - XPath Match  
-- Client  
+  - Recursion
+- Client 
+  - JTidy
+  - XML fetch
+- XPath Engine User Interface Servlet
+  - Post Method
 - Other
 
-* Validation Check  
- * Nested bullet
-  * Sub-nested bullet etc
-* XPath Match
-* Client
-* 
 
 
 
