@@ -1,7 +1,7 @@
 README
+========
 
-
-Project Structure:
+####Project Structure:
   - Performance
     - Extra Credit for computation intensive request analysis
   - Build.xml
@@ -13,3 +13,11 @@ Project Structure:
     - source code
   - public
     - testing files
+
+####Steps:
+
+- Servlet Engine
+- Cookie
+- Session
+- HttpServletRequest
+- HttpServletResponse
