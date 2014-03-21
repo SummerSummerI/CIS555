@@ -10,11 +10,22 @@ _Steps:_
   - ?
 - XPath Match  
   - Recursion
+- XPath Engine Impl
+  - XPath Engine Interface
+  - isValid()
+    - use Validation Check
+  - evaluate()
+    - use XPath Match
 - Client 
-  - JTidy
-  - XML fetch
+  - Get XML/HTML files from Internet
+    - JTidy
+    - XML fetch
+  - Parse into DOM document
 - XPath Engine User Interface Servlet
   - Post Method
+  - Evaluate the xpath
+    - Get the file according to the URL and parse into DOM
+    - Evalute the xpath based on this DOM
 - JUnit Test
 - Other
 
