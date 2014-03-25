@@ -17,3 +17,4 @@ HW2MS3
 - Politeness
   - Read the robots.txt file
   - Parse into hashtables
+  - Follow specific rules when crawling the web
