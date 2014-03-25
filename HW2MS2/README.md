@@ -11,6 +11,9 @@ HW2MS3
     - Load ==> Store.put
     - Read ==> Store.get
     - Binding
-    - 
+    - MyDbEnv
   - Design a web page data model to store the content and some other useful information
   - Setup
+- Politeness
+  - Read the robots.txt file
+  - Parse into hashtables
