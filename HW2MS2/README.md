@@ -18,3 +18,8 @@ HW2MS3
   - Read the robots.txt file
   - Parse into hashtables
   - Follow specific rules when crawling the web
+- User Interface
+  - Use servlets to implements
+    - User login
+    - User register
+- XML Display
