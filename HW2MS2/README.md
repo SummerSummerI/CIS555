@@ -1,4 +1,4 @@
-HW2MS3
+HW2MS2
 ======
 
 
@@ -23,3 +23,8 @@ HW2MS3
     - User login
     - User register
 - XML Display
+- RSS Aggregator
+  - Use XPaths to match desired items
+  - Use XSL to display the matched elements
+    - Get the matched XML document
+    - Use XSL to find desired elements and display them
