@@ -4,6 +4,7 @@ HW3
 
 ##Worker
 ####Run Map
+- Status Update
 - File
   - file check: 
   - spool-in
