@@ -8,3 +8,9 @@ HW3
   - file check: 
   - spool-in
   - spool-out
+- Map
+  - Maps the input
+- Context(Emitter)
+
+
+####Run Reduce
